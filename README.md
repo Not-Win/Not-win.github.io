@@ -3,7 +3,7 @@
 
 This is an article about Windows 11. See the Microsoft event on 24 june. We are now nearing the the end of the aritcle. This article is 33 words long. Thank you for reading.
 
-Apparently some ISOs of the preview windows 11 builds have been leaked.
+Apparently some ISOs of preview windows 11 builds have been leaked.
 
 #### Please note these are not realeased by Microsoft, try them at your own risk. 
 
