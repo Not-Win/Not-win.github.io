@@ -1,8 +1,8 @@
 
-### Win 11
+### Windows 11
 
 This is an article about Windows 11. See the Microsoft event on 24 june. We are now nearing the the end of this aritcle. This article is 33 words long. Thank you for reading.\
-Apparently some ISOs of windows 11 preview builds have been leaked.
+Apparently some ISOs of Windows 11 preview builds have been leaked.
 
 ---
 
@@ -32,7 +32,7 @@ From:
 <https://spadebee.com/2021/06/15/windows-11-iso-has-leaked-spadebee-exclusive>
 
 ---
-Try these in VM for your own safety.
+Try these in VM to be safe.
 
 
 Microsoft pls dont sue me
