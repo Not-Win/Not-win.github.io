@@ -13,11 +13,12 @@ Here are the links I could find:
 *  <https://drive.google.com/uc?id=1zNUsznMvtId2pGc77j44xtuIhepIPdC4&export=download> \
 **If you get an error saying Sorry, you can't view or download fix it with: [this tutorial](https://www.ghacks.net/2017/04/14/fix-google-drive-sorry-you-cant-view-or-download-this-file-error/)**
 
+* <https://androidfilehost.com/?fid=14943124697586350415>
+
 * <https://mega.nz/file/lL5FhKBb#g1vRhYrlrG_pIndfSy_V8RxAKPT8KXKOg5JUmyaum00>
 
-* <https://mgb1.androidfilehost.com/dl/brhYRLRwJWxZWrzb1QM5sg/1623873608/14943124697586350269/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso>
-
-* magnet:?xt=urn:btih:7101c26a2ba10ab2374dcc171f92a443bdc986c5&dn=21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso
+* Torrent/Magnet link:\
+`<magnet:?xt=urn:btih:7101c26a2ba10ab2374dcc171f92a443bdc986c5&dn=21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso>`
 
 SHA 256 Hash: B8426650C24A765C24083597A1EBA48D9164802BD273B678C4FEFE2A6DA60DCB
 
