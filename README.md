@@ -5,6 +5,8 @@ This is an article about Windows 11. See the Microsoft event on 24 june. We are 
 
 Apparently some ISOs of preview windows 11 builds have been leaked.
 
+---
+
 #### Please note these are not realeased by Microsoft, try them at your own risk. 
 
 Here are the links I could find:
