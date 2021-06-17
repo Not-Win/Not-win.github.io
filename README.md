@@ -11,7 +11,7 @@ Apparently some ISOs of windows 11 preview builds have been leaked.
 
 Here are the links I could find:
 
-*  <https://drive.google.com/uc?id=1zNUsznMvtId2pGc77j44xtuIhepIPdC4&export=download> [If you get an error saying too many people fix it using this tutorial](https://www.ghacks.net/2017/04/14/fix-google-drive-sorry-you-cant-view-or-download-this-file-error/)
+*  <https://drive.google.com/uc?id=1zNUsznMvtId2pGc77j44xtuIhepIPdC4&export=download> If you get an error saying Sorry, you can't view or download fix it with: [this tutorial](https://www.ghacks.net/2017/04/14/fix-google-drive-sorry-you-cant-view-or-download-this-file-error/)
 
 * <https://mega.nz/file/lL5FhKBb#g1vRhYrlrG_pIndfSy_V8RxAKPT8KXKOg5JUmyaum00>
 
