@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Not-Win/Not-win.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Win 11
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is an article about Windows 11. See the Microsoft event on 24 june. We are now nearing the the end of the aritcle. This article is 33 words long. Thank you for reading.
 
-### Markdown
+Apparently some ISOs of the preview windows 11 builds have been leaked.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Please note these are not realeased by Microsoft, try them at your own risk. 
 
-```markdown
-Syntax highlighted code block
+Here are the links I could find:
 
-# Header 1
-## Header 2
-### Header 3
+1) https://mega.nz/file/lL5FhKBb#g1vRhYrlrG_pIndfSy_V8RxAKPT8KXKOg5JUmyaum00
+2) https://mgb1.androidfilehost.com/dl/brhYRLRwJWxZWrzb1QM5sg/1623873608/14943124697586350269/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso
+3) magnet:?xt=urn:btih:7101c26a2ba10ab2374dcc171f92a443bdc986c5&dn=21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso
 
-- Bulleted
-- List
+SHA 256 Hash: B8426650C24A765C24083597A1EBA48D9164802BD273B678C4FEFE2A6DA60DCB
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Not-Win/Not-win.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If any of these links are down please create an issue or a pull request with a working link on the (github page)[https://github.com/Not-Win/Not-win.github.io]
