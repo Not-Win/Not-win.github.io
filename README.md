@@ -21,14 +21,14 @@ Here are the links I could find:
 
 SHA 256 Hash: B8426650C24A765C24083597A1EBA48D9164802BD273B678C4FEFE2A6DA60DCB
 
-If any of these links are down please create an issue or a pull request with a working link on the [github page](https://github.com/Not-Win/Not-win.github.io)
+If any of these links are down please create an issue or a pull request with a working link on the [github page](https://github.com/Not-Win/Not-win.github.io).
 
 ---
 From:
 
-https://boards.4channel.org/g/thread/82105462/windows-11-got-leaked
+<https://boards.4channel.org/g/thread/82105462/windows-11-got-leaked>
 
-https://spadebee.com/2021/06/15/windows-11-iso-has-leaked-spadebee-exclusive/
+<https://spadebee.com/2021/06/15/windows-11-iso-has-leaked-spadebee-exclusive>
 
 ---
 Try these in VM for your own safety.
